@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "slug": "2fa1662fe6a88427",
+            "title": "komoot-clients",
+            "project_type": "ios",
+            "provider": "github",
+            "repo_owner": "komoot",
+            "repo_url": "git@github.com:komoot/komoot-clients.git",
+            "repo_slug": "komoot-clients",
+            "is_disabled": false,
+            "status": 1,
+            "is_public": false,
+            "owner": {
+                "account_type": "organization",
+                "name": "komoot",
+                "slug": "5b547b636b2267de"
+            },
+            "avatar_url": "https://concrete-userfiles-production.s3.us-west-2.amazonaws.com/repositories/2fa1662fe6a88427/avatar/avatar.jpg"
+        },
+        {
+            "slug": "a4dac4885718f670",
+            "title": "komoot-android",
+            "project_type": "android",
+            "provider": "github",
+            "repo_owner": "komoot",
+            "repo_url": "git@github.com:komoot/komoot-android.git",
+            "repo_slug": "komoot-android",
+            "is_disabled": false,
+            "status": 1,
+            "is_public": false,
+            "owner": {
+                "account_type": "organization",
+                "name": "komoot",
+                "slug": "5b547b636b2267de"
+            },
+            "avatar_url": null
+        },
+        {
+            "slug": "2a36eaa0fbcab183",
+            "title": "komoot-ios",
+            "project_type": "ios",
+            "provider": "github",
+            "repo_owner": "komoot",
+            "repo_url": "git@github.com:komoot/komoot-ios.git",
+            "repo_slug": "komoot-ios",
+            "is_disabled": false,
+            "status": 1,
+            "is_public": false,
+            "owner": {
+                "account_type": "organization",
+                "name": "komoot",
+                "slug": "5b547b636b2267de"
+            },
+            "avatar_url": "https://concrete-userfiles-production.s3.us-west-2.amazonaws.com/repositories/2a36eaa0fbcab183/avatar/avatar.png"
+        }
+    ],
+    "paging": {
+        "total_item_count": 3,
+        "page_item_limit": 50
+    }
+}
